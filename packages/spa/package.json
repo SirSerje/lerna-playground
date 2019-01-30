@@ -2,9 +2,7 @@
   "name": "spa",
   "version": "0.0.0",
   "description": "> TODO: description",
-  "homepage": "",
   "license": "ISC",
-  "main": "src/spa.js",
   "directories": {
     "src": "src",
     "test": "__tests__"
